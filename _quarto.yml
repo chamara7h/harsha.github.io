@@ -14,6 +14,8 @@ website:
     right:
       - text: About
         href: about/index.qmd
+      - text: Resume
+        href: cv/index.qmd
       - text: Projects
         href: projects/index.qmd
       - text: Talks
