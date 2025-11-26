@@ -10,7 +10,7 @@ about:
       text: e-mail
       href: mailto:hewagehrc@gamil.com
     - icon: github
-      text: Github
+      text: Git
       href: https://github.com/chamara7h
     - icon: linkedin
       text: LinkedIn
